@@ -1,3 +1,5 @@
 Laptop
 Tastatur
 Geld
+Bildschirm
+Inliner
